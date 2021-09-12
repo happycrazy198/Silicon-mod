@@ -1,0 +1,9 @@
+type: Conveyor 
+name: Silicon Conveyor
+description: A very strange conveyor no one knows what the material is made of.
+requirements: [
+  hardened-silicon-item/1  
+]
+category: distribution
+speed: 0.11
+research: plastanium-conveyor
