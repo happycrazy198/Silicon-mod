@@ -10,6 +10,10 @@ Simply download this repository as a zip, then import it through the `Mods` dial
 
 Feel free to submit more example content to this repository. For example sprites, I recommend re-coloring existing blocks and using the existing Mindustry palette.
 
+## Editing
+
+feel free to edit the code once you downloaded it!
+
 ## Want more mods?
 
 Simon Woodburry-Forget has a list [here](https://simonwoodburyforget.github.io/mindustry-mods/).
