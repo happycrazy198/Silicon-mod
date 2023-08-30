@@ -3,4 +3,4 @@ displayName: "[orange]Silicon [gold]Mod" //what displays in the mod selection me
 author: "Anonymous"
 description: "Silicon Mod"
 version: "6.2" 	"hidden": true, 
-minGameVersion: "126.2"
+minGameVersion: "136"
