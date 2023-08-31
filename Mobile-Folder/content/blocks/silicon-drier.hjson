@@ -1,0 +1,27 @@
+type: GenericCrafter
+name: "Silicon Drier"
+description: "Dries Molten-silicon for use in crafting."
+liquidCapacity: 10
+inputLiquid: {
+  liquid: molten-silicon
+  amount: 1
+}
+size: 2
+hasPower: true
+hasLiquids: true
+craftTime: 10
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.6
+}
+outputItem: {
+  item: hardened-silicon-item
+}
+requirements: [
+  lead/50
+  copper/80
+]
+category: crafting
+research: kiln
+idleSound: respawning
+idleSoundVolume: 0.5
