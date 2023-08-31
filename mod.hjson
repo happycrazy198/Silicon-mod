@@ -1,6 +1,6 @@
-name: "silicon-mod"
-displayName: "[orange]Silicon [gold]Mod" //what displays in the mod selection menu
-author: "Anonymous"
-description: "Silicon Mod"
+name: "example-mod"
+displayName: "[orange]Example[gold] Mod" //what displays in the mod selection menu
+author: "happycrazy197"
+description: "A simple mod. [lime]adds sources adds silicon stuff and more!"
 version: "6.2" 	"hidden": true, 
-minGameVersion: "136"
+minGameVersion: "126.2"
