@@ -29,7 +29,7 @@ shootType: {
 		silicon/30
 		copper/50
 		lead/100
-		hardened-silicon-item
+		hardened-silicon-item/300
 	]
 category: turret
 research: meltdown
