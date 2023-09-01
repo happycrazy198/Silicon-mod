@@ -10,15 +10,15 @@ hasPower: true
 shootEffect: shootBigSmoke2
 shootCone: 40
 shootShake: 2
-range: 190
+range: 250
 reloadTime: 80
 firingMoveFract: 0.5
 shootDuration: 220
 shootSound: laserbig
 shootType: {
   type: ContinuousLaserBulletType
-  damage: 210
-  length: 220
+  damage: 250
+  length: 250
   hitEffect: hitMeltdown
   drawSize: 420
   incendChance: 0.5
