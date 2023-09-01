@@ -1,3 +1,12 @@
+name: "Large Silver Wall"
+description: "Protects Better than Surge Wall. We Have No Idea Why Hardened Silicon Turns into silver"
+solid: true
+destructible: true
+group: wall
+buildCostMultiplier: 5
 lightningChance: 1
 lightningDamage: 50
 lightningLenght: 30
+requirements: [
+  hardened-silicon-item/24
+]
