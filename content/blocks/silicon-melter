@@ -1,0 +1,31 @@
+type: GenericCrafter
+name: "Silicon Melter"
+description: "Melts Silicon for use in crafting."
+liquidCapacity: 10
+size: 2
+hasPower: true
+hasLiquids: true
+craftTime: 100
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.6,
+  liquid: {
+    liquid: water
+    amount: 10
+    optional: false
+    booster: true
+  }
+}
+outputLiquid: {
+  liquid: molten-silicon
+  amount: 1
+}
+requirements: [
+  lead/50
+  copper/80
+  graphite/30
+]
+category: crafting
+research: kiln
+idleSound: respawning
+idleSoundVolume: 0.5
