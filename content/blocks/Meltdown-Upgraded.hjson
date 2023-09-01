@@ -26,13 +26,10 @@ shootType: {
   incendAmount: 1
 }
 	requirements: [
-		silicon/30
-		copper/50
-		lead/100
-		hardened-silicon-item/300
+		copper/300
 	]
 category: turret
-research: meltdown
+research: duo
 consumes: {
   liquid: {
     liquid: water
