@@ -4,6 +4,7 @@ solid: true
 size: 2
 destructible: true
 group: walls
+category: walls
 buildCostMultiplier: 5
 lightningChance: 1
 lightningDamage: 50
