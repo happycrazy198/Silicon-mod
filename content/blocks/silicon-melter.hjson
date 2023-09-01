@@ -12,8 +12,12 @@ consumes: {
   liquid: {
     liquid: water
     amount: 10
-    optional: false
+    optional: true
     booster: true
+  },
+  item: {
+    item: silicon
+    amount: 15
   }
 }
 outputLiquid: {
