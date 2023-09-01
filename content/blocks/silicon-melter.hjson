@@ -18,8 +18,7 @@ consumes: {
     booster: true
   },
   item: {
-    item: Silicon,
-    amount: 15
+    item: silicon/15
   }
 }
 outputLiquid: {
