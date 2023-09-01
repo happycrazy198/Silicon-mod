@@ -1,7 +1,7 @@
 {
     "size": 2,
     "hasItems": true,
-    "unloadable": true,
+    "unloadable": false,
     "breakable": true,
     "rebuildable": false,
     "health": 1000,
