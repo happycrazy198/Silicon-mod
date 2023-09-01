@@ -1,6 +1,7 @@
 name: "Large Silver Wall"
 description: "Protects Better than Surge Wall. We Have No Idea Why Hardened Silicon Turns into silver"
 solid: true
+size: 2
 destructible: true
 group: walls
 buildCostMultiplier: 5
