@@ -5,8 +5,7 @@ description: "Melts Silicon for use in crafting."
 liquidCapacity: 10
 size: 2
 hasPower: true
-hasLiquids: true
-hasItems: true
+hasLiquids: true\
 craftTime: 100
 updateEffect: smeltsmoke
 consumes: {
