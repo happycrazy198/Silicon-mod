@@ -18,6 +18,7 @@ consumes: {
 }
 outputItem: {
   item: hardened-silicon-item
+  amount: 5
 }
 requirements: [
   lead/50
