@@ -3,7 +3,7 @@
     hasItems: true,
     unloadable: false,
     breakable: true,
-    rebuildable: false,
+    rebuildable: true,
     health: 1000,
     itemCapacity: 15000,
     requirements: [copper/1000, lead/800],
