@@ -1,8 +1,0 @@
-type: liquidSource
-
-size: 1
-health: 5000
-
-category: liquid
-alwaysUnlocked: true
-buildVisibility: "shown"
