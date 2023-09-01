@@ -2,4 +2,4 @@ name: Cooled Silicon
 temperature: 0.3
 viscosity: 0.8
 effect: unmoving
-color: b5feff alwaysUnlocked: true
+color: 808080 alwaysUnlocked: true
