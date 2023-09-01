@@ -16,7 +16,7 @@ consumes: {
     booster: true
   },
   item: {
-    item: "silicon"
+    "item": silicon
     amount: 15
   }
 }
