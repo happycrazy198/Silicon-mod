@@ -7,11 +7,7 @@ consumes: {
     liquid: molten-silicon
     amount: 10
     optional: false
-    booster: true,
-    liquid: water
-    amount: 10
-    optional: false
-    booster: false
+    booster: true
   }
 }
 size: 2
