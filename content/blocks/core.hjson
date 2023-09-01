@@ -4,6 +4,7 @@
     unloadable: false,
     breakable: true,
     rebuildable: true,
+    buildable: true,
     health: 1000,
     itemCapacity: 15000,
     requirements: [copper/1000, lead/800],
