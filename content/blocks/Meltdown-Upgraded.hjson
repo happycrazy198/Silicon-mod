@@ -26,7 +26,7 @@ shootType: {
   incendAmount: 1
 }
 	requirements: [
-		copper/300
+		copper/50
 	]
 category: turret
 research: duo
