@@ -13,5 +13,5 @@ requirements: [
     copper/5000
     silicon/4000   
 ]
-category: core
+category: effect
 research: core
