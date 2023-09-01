@@ -7,5 +7,5 @@ category: distribution
 requirements: [
     copper/15
 ]
-research: conveyor
+research: distributor
 buildVisibility: "shown"
