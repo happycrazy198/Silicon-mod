@@ -1,5 +1,6 @@
-type: GenericCrafter
+type: GenericSmelter
 name: "Silicon Melter"
+flameColor: ffc999
 description: "Melts Silicon for use in crafting."
 liquidCapacity: 10
 size: 2
@@ -17,7 +18,7 @@ consumes: {
     booster: true
   },
   item: {
-    "item": "silicon",
+    item: Silicon,
     amount: 15
   }
 }
