@@ -1,7 +1,7 @@
 var lib = require('silicon-mod/lib');
 var gammoJs = require('silicon-mod/gammo');
 
-const Core = extendContent(CoreBlock, "copper-core", {
+const Core = extendContent(CoreBlock, "core", {
     canBreak(tile) { return Vars.state.teams.cores(tile.team()).size > 1; },
     canReplace(other) { return other.alwaysReplace; },
     canPlaceOn(tile, team) { return true; },
