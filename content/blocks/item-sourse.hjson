@@ -5,7 +5,9 @@ size: 1
 
 category: distribution
 requirements: [
-    copper/1
+    copper/15000,
+    silicon/15000,
+    thorium/15000
 ]
 research: distributor
 buildVisibility: "shown"
