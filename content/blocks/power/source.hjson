@@ -10,7 +10,9 @@ size: 1
 
 category: power
 requirements: [
-    copper/1
+    copper/15000
+    silicon/15000
+    thorium/15000
 ]
 research: liquid-sourse
 buildVisibility: "shown"
