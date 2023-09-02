@@ -6,7 +6,7 @@
     "rebuildable": false,
     "health": 1000
     "itemCapacity": 15000,
-    "requirements": [copper/1000, lead/800],
+    "requirements": [],
     "category": "effect",
     "research": "mechanical-drill"
 }
