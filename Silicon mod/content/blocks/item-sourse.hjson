@@ -4,5 +4,10 @@ health: 3000
 size: 1
 
 category: distribution
-alwaysUnlocked: true
+requirements: [
+    copper/15000,
+    silicon/15000,
+    thorium/15000
+]
+research: distributor
 buildVisibility: "shown"

@@ -4,5 +4,8 @@ size: 1
 health: 5000
 
 category: liquid
-alwaysUnlocked: true
+research: item-sourse
+requirements: [
+    copper/1
+]
 buildVisibility: "shown"
