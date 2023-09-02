@@ -6,5 +6,6 @@ size: 1
 category: distribution
 requirements: [
     copper/1
+]
 research: distributor
 buildVisibility: "shown"
