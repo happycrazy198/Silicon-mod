@@ -1,5 +1,4 @@
  {
-    "type": CoreBlock,
     "size": 3,
     "hasItems": true,
     "unloadable": true,
