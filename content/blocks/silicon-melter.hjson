@@ -18,7 +18,7 @@ consumes: {
     optional: true
     booster: true
   },
-  item: silicon/15
+  item: silicon
 }
 outputLiquid: {
   liquid: molten-silicon
