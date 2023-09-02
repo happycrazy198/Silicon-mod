@@ -1,4 +1,4 @@
-    type: CoreBlock
+ {
     size: 3,
     hasItems: true,
     unloadable: false,
@@ -10,3 +10,4 @@
     requirements: [copper/1000, lead/800],
     category: "effect",
     research: "mechanical-drill"
+}
