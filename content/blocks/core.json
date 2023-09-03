@@ -10,5 +10,5 @@
     "itemCapacity": 15000,
     "requirements": [copper/1000,lead/800],
     "category": "effect",
-    "research": "mechanical-drill"
+    "research": "core-shard"
 }
