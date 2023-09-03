@@ -1,5 +1,5 @@
 
-const lib = require('super-cheat/lib')
+const lib = require('silicon-mod/lib')
 
 const InvincibleForceFieldAbility = (radius, regen, max, cooldown) => {
 
