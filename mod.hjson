@@ -1,6 +1,9 @@
 name: "silicon-mod"
 displayName: "[orange]Silicon[gold] Mod" //what displays in the mod selection menu
 author: "happycrazy197"
-description: "A simple mod. [lime]adds sources adds silicon stuff and more! dependencies: Ui Lib"
+description: "A simple mod. [lime]adds sources adds silicon stuff and more!"
 version: "0.6", 
 minGameVersion: "136"
+dependencies: [
+    UI Lib
+]
