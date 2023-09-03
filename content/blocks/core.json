@@ -1,5 +1,6 @@
 {
-    "name": "core",
+    "type": CoreBlock,
+    "name": "Core",
     "size": 3,
     "hasItems": true,
     "unloadable": true,
@@ -8,7 +9,7 @@
     "placeableOn": true,
     "health": 1000,
     "itemCapacity": 15000,
-    "requirements": [],
+    "requirements": [copper/1000,lead/800],
     "category": "effect",
     "research": "core-shard"
 }
