@@ -89,7 +89,7 @@ const gammoWeapon = (() => {
 })();
 
 const mech = (() => {
-    const m = extendContent(UnitType, 'gammo', {});
+    const m = extendContent(UnitType, 'silicon-beta', {});
 
     m.abilities.add(new RepairFieldAbility(Infinity, 60, 8 * 8));
     // m.abilities.add(new JavaAdapter(ForceFieldAbility, {}, 60, Infinity, Infinity, 300));
