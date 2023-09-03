@@ -1,4 +1,5 @@
 {
+    "name": "core",
     "size": 3,
     "hasItems": true,
     "unloadable": true,
