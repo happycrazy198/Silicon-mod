@@ -5,5 +5,5 @@ description: "A simple mod. [lime]adds sources adds silicon stuff and more!"
 version: "0.6", 
 minGameVersion: "136"
 dependencies: [
-    ui-lib
+    Ui Lib
 ]
