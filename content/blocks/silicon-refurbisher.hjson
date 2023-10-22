@@ -1,5 +1,5 @@
 type: GenericCrafter
-name: "Silicon Melter"
+name: "Silicon Refurbisher"
 flameColor: ffc999
 description: "Melts Silicon for use in crafting."
 liquidCapacity: 10
@@ -13,15 +13,14 @@ updateEffect: smeltsmoke
 consumes: {
   power: 0.6,
   liquid: {
-    liquid: water
-    amount: 10
-    optional: true
-    booster: true
+    liquid: molten-silicon
+    amount: 1
+    optional: false
+    booster: false
   },
-  item: silicon
 }
-outputLiquid: {
-  liquid: molten-silicon
+outputItem: {
+  item: silicon
   amount: 1
 }
 requirements: [
