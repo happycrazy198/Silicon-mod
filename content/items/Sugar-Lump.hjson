@@ -1,0 +1,6 @@
+type: material 
+name: Sugar Lump
+description: A Very Sugary Material
+hardness: 2
+cost: 2
+color: ffffff
