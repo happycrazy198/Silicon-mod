@@ -12,12 +12,6 @@ craftTime: 1000
 updateEffect: smeltsmoke
 consumes: {
   power: 0.6,
-  liquid: {
-    liquid: molten-silicon
-    amount: 1
-    optional: false
-    booster: false
-  },
 }
 outputItem: {
   item: Sugar-Lump
