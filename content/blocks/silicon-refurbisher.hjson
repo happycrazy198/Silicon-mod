@@ -1,7 +1,7 @@
 type: GenericCrafter
 name: "Silicon Refurbisher"
 flameColor: ffc999
-description: "Melts Silicon for use in crafting."
+description: "turns molten silicon back into Silicon for use in crafting."
 liquidCapacity: 10
 health: 160
 size: 2

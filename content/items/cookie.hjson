@@ -1,0 +1,6 @@
+type: material 
+name: Cookie
+description: Cookie
+hardness: 2
+cost: 2
+color: ffffff

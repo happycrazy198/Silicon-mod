@@ -1,0 +1,25 @@
+type: GenericCrafter
+name: "Cookie Generator"
+flameColor: ffc999
+description: "Generates A Cookie"
+health: 160
+size: 2
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 100
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.6,
+}
+outputItem: {
+  item: cookie
+  amount: 1
+}
+requirements: [
+  hardened-silicon-item/30
+]
+category: crafting
+research: kiln
+idleSound: respawning
+idleSoundVolume: 0.5

@@ -1,0 +1,32 @@
+type: GenericCrafter
+name: "Lump Generator"
+flameColor: ffc999
+description: "Generates A Lump. Takes about 10 minutes to generate one lump"
+liquidCapacity: 10
+health: 160
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 1000
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.6,
+  liquid: {
+    liquid: molten-silicon
+    amount: 1
+    optional: false
+    booster: false
+  },
+}
+outputItem: {
+  item: Sugar-Lump
+  amount: 1
+}
+requirements: [
+  cookie/30
+]
+category: crafting
+research: kiln
+idleSound: respawning
+idleSoundVolume: 0.5
