@@ -1,0 +1,29 @@
+type: Drill
+name: "Sugar Drill"
+description: "Sugary drill that still works for some reason"
+liquidCapacity: 10
+size: 2
+hasPower: false
+hasLiquids: true
+drawMineItem: true
+drillTime:60
+liquidBoostIntensity:2.6
+warmupSpeed:0.05
+tier: 5
+rotateSpeed:5
+drawRim: true
+consumes: {
+  liquid: {
+    liquid: water
+    amount: 10
+    optional: true
+    booster: true
+  },
+}
+requirements: [
+  Sugar-Lump/10
+]
+category: mining
+research: pneumatic-drill
+idleSound: drill
+idleSoundVolume: 0.03
