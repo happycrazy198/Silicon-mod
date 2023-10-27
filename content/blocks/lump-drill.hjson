@@ -2,7 +2,7 @@ type: Drill
 name: "Sugar Drill"
 description: "Sugary drill that still works for some reason"
 liquidCapacity: 10
-size: 2
+size: 1
 hasPower: false
 hasLiquids: true
 drawMineItem: true
