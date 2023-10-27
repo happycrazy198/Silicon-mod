@@ -23,6 +23,7 @@ consumes: {
 requirements: [
   Sugar-Lump/10
 ]
+category: drill
 research: pneumatic-drill
 idleSound: drill
 idleSoundVolume: 0.03
