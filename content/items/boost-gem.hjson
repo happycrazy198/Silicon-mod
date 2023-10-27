@@ -1,0 +1,6 @@
+type: material 
+name: Boost Gem
+description: Boosts Silicon mod generators
+hardness: 2
+cost: 2
+color: ffffff
