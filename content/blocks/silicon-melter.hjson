@@ -22,7 +22,7 @@ consumes: {
 }
 outputLiquid: {
   liquid: molten-silicon
-  amount: 1
+  amount: 10
 }
 requirements: [
   lead/50
