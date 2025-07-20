@@ -11,7 +11,7 @@ consumes: {
   power: 0.6,
   liquid: {
     liquid: molten-silicon
-    amount: 10
+    amount: 5
     optional: false
     booster: true
   }
